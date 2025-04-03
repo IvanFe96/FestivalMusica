@@ -1,12 +1,7 @@
 # Ignorar la carpeta node_modules (npm)
 node_modules/
 
-# Ignorar archivos de dependencias de frontend
-package.json
-package-lock.json
-gulpfile.js
-
-# Ignorar caché del editor de código (VS Code, JetBrains)
+# Ignorar caché del editor de código (VSCode)
 .vscode/
 
 # Ignorar archivos de configuración del entorno
